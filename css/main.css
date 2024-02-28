@@ -1,0 +1,33 @@
+#hero-bg {
+    margin: 0 auto;
+    height: 900px;
+    background-color: #D6D6D6;
+}
+
+#nav {
+    height: 72px;
+    background-color: #707070;
+    margin-top: 48px;
+    border-radius: 50px;
+}
+
+#herotext1 {
+    height: 72px;
+    background-color: #ffffff;
+    margin-top: 142px;
+    border-radius: 8px;
+}
+
+#herotext2 {
+    height: 72px;
+    background-color: #ffffff;
+    margin-top: 24px;
+    border-radius: 8px;
+}
+
+#herotext3 {
+    height: 72px;
+    background-color: #ffffff;
+    margin-top: 24px;
+    border-radius: 8px;
+}
