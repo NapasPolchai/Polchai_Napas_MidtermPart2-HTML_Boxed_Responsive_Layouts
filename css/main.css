@@ -31,3 +31,38 @@
     margin-top: 24px;
     border-radius: 8px;
 }
+
+#herodes1 {
+    height: 16px;
+    background-color: #ffffff;
+    margin-top: 72px;
+    border-radius: 8px;
+}
+
+#herodes2 {
+    height: 16px;
+    background-color: #ffffff;
+    margin-top: 8px;
+    border-radius: 8px;
+}
+
+#card {
+    height: 350px;
+    background-color: #707070;
+    margin-top: 128px;
+    border-radius: 8px;
+}
+
+#p-header {
+    height: 48px;
+    background-color: #707070;
+    margin-top: 344px;
+    border-radius: 8px;
+}
+
+#text {
+    height: 16px;
+    background-color: #D6D6D6;
+    margin-top: 32px;
+    border-radius: 8px;
+}
