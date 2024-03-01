@@ -53,6 +53,20 @@
     border-radius: 8px;
 }
 
+#card-1 {
+    height: 350px;
+    background-color: #707070;
+    margin-top: 128px;
+    border-radius: 8px;
+}
+
+#card-2 {
+    height: 350px;
+    background-color: #707070;
+    margin-top: 128px;
+    border-radius: 8px;
+}
+
 #p-header {
     height: 48px;
     background-color: #707070;
@@ -169,4 +183,78 @@
     background-color: #707070;
     margin-top: 128px;
     border-radius: 8px;
+}
+
+@media screen and (max-width: 767px) {
+    #card-1 {
+        display: none;
+    }
+
+    #card-2 {
+        display: none;
+    }
+
+    #destext2 {
+        margin-top: -243px;
+    }
+    
+    #p-header {
+        margin-top: 267px;
+    }
+
+    #pic1 {
+        height: 336px;
+        background-color: #D6D6D6;
+        margin-top: 24px;
+        border-radius: 8px;
+    }
+
+    #destext3 {
+        margin-top: -72px;
+    }
+
+    #destext4 {
+        margin-top: 180px;
+    }
+
+    #img1 {
+        height: 621px;
+        background-color: #707070;
+        margin-top: 72px;
+        margin-bottom: 72PX;
+        border-radius: 8px;
+    }
+
+    #img2  {
+        display: none;
+    }
+
+    #img3  {
+        display: none;
+    }
+
+    #img4  {
+        display: none;
+    }
+
+    #img5  {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #card-1 {
+        height: 350px;
+        background-color: #707070;
+        margin-top: 128px;
+        border-radius: 8px;
+    }
+    
+    #card-2 {
+        height: 350px;
+        background-color: #707070;
+        margin-top: 128px;
+        border-radius: 8px;
+    }
+
 }
